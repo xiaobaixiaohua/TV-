@@ -1,7 +1,7 @@
 ﻿  // 配置地址 --> clan://localhost/TVBox/box.json
 
 {
-"spider":"https://github.com/xiaobaixiaohua/TVpeizhi/main/220819.jar",
+"spider":"https://github.com/xiaobaixiaohua/TVpeizhi/blob/main/220819.jar",
 
 //直播
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":[
